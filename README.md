@@ -49,7 +49,7 @@ prize_app/
 
 ```bash
 pip install PySide6
-cd prize_app
+cd prize_distribution
 python main.py
 ```
 
