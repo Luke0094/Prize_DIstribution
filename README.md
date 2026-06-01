@@ -1,6 +1,6 @@
 # Prize Distribution — PySide6
 
-Riscrittura completa in PySide6 del calcolatore originale (Tkinter).
+Not so basic manger to add your distribution prizes, players damage and check your previus records!
 
 ---
 
