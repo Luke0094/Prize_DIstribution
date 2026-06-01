@@ -12,7 +12,7 @@ prize_app/
 ├── preferences.json              ← generato al primo avvio
 │
 ├── locales/                      ← un file JSON per lingua (auto-detect)
-│   ├── it.json  (316 chiavi)     ← Italiano — lingua di riferimento
+│   ├── it.json  (316 chiavi)     ← Italiano
 │   ├── en.json  (316 chiavi)     ← English
 │   ├── fr.json  (316 chiavi)     ← Français
 │   └── ru.json  (316 chiavi)     ← Русский
